@@ -18,11 +18,11 @@ public class PageObjectHandler {
         //Integer.parseInt(toString()) length = 0;
         try
         {
-<<<<<<< HEAD:src/main/java/CucumberOptionsss/PageObjectHandler.java
-         File file = new File("C:\Users\CHETAN S\Downloads\Updated-Demoblaze\Updtd-cucumber-starter\src\main\java\TestData\PageObject.xml"); 
-=======
+//<<<<<<< HEAD:src/main/java/CucumberOptionsss/PageObjectHandler.java
+        // File file = new File("C:\Users\CHETAN S\Downloads\Updated-Demoblaze\Updtd-cucumber-starter\src\main\java\TestData\PageObject.xml"); 
+//=======
          File file = new File("/Demo-cucumber-starter/src/main/java/TestData/PageObject.xml"); 
->>>>>>> febe54675e92adf3a4a1de59b3cd7d751f2a9df2:src/test/java/CucumberOptionsss/PageObjectHandler.java
+//>>>>>>> febe54675e92adf3a4a1de59b3cd7d751f2a9df2:src/test/java/CucumberOptionsss/PageObjectHandler.java
          DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
          DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
          Document doc = dBuilder.parse(file);
@@ -63,11 +63,11 @@ public class PageObjectHandler {
         String data = "";
         try
         {
-<<<<<<< HEAD:src/main/java/CucumberOptionsss/PageObjectHandler.java
-         File file = new File("C:\Users\CHETAN S\Downloads\Updated-Demoblaze\Updtd-cucumber-starter\src\main\java\TestData\PageObject.xml"); 
-=======
+//<<<<<<< HEAD:src/main/java/CucumberOptionsss/PageObjectHandler.java
+    //     File file = new File("C:\Users\CHETAN S\Downloads\Updated-Demoblaze\Updtd-cucumber-starter\src\main\java\TestData\PageObject.xml"); 
+//=======
          File file = new File("/Demo-cucumber-starter/src/main/java/TestData/PageObject.xml"); 
->>>>>>> febe54675e92adf3a4a1de59b3cd7d751f2a9df2:src/test/java/CucumberOptionsss/PageObjectHandler.java
+//>>>>>>> febe54675e92adf3a4a1de59b3cd7d751f2a9df2:src/test/java/CucumberOptionsss/PageObjectHandler.java
         DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
         DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
         Document doc = dBuilder.parse(file);
