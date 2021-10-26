@@ -1519,4 +1519,164 @@
 "11:39:54.539 [main] INFO  StepDefinitions.StepDefnition - Purchase button is clicked
 "11:39:57.827 [main] INFO  StepDefinitions.StepDefnition - Product has been scheduled for shipping
 "11:39:59.214 [main] INFO  Actions.ActionUtilities - In click action xpath is functioned 
+"11:17:40.063 [main] INFO  StepDefinitions.StepDefnition - Browser is initialized
+"11:28:08.239 [main] INFO  StepDefinitions.StepDefnition - Browser is initialized
+"11:32:23.685 [main] INFO  StepDefinitions.StepDefnition - Browser is initialized
+"11:34:32.426 [main] INFO  StepDefinitions.StepDefnition - Browser is initialized
+"11:43:18.826 [main] INFO  StepDefinitions.StepDefnition - Browser is initialized
+"11:43:51.944 [main] INFO  StepDefinitions.StepDefnition - Sign-in started
+"11:43:52.801 [main] INFO  Actions.ActionUtilities - In click action id is functioned 
+"11:43:52.801 [main] INFO  StepDefinitions.StepDefnition - sign-up link is clicked
+"11:43:54.055 [main] INFO  Actions.ActionUtilities - In click action id is functioned 
+"11:43:54.055 [main] INFO  StepDefinitions.StepDefnition - sign-up username is clicked
+"11:43:54.551 [main] INFO  Actions.ActionUtilities - In clear action id is functioned 
+"11:43:54.551 [main] INFO  StepDefinitions.StepDefnition - sign-up username is cleared
+"11:43:54.974 [main] INFO  Actions.ActionUtilities - In sendkeys action id is functioned 
+"11:43:54.975 [main] INFO  StepDefinitions.StepDefnition - sign-up username is entered
+"11:43:55.182 [main] INFO  Actions.ActionUtilities - In click action id is functioned 
+"11:43:55.183 [main] INFO  StepDefinitions.StepDefnition - sign-up password is clicked
+"11:43:55.277 [main] INFO  Actions.ActionUtilities - In clear action id is functioned 
+"11:43:55.278 [main] INFO  StepDefinitions.StepDefnition - sign-up password is cleared
+"11:43:55.593 [main] INFO  Actions.ActionUtilities - In sendkeys action id is functioned 
+"11:43:55.593 [main] INFO  StepDefinitions.StepDefnition - sign-up password is entered
+"11:43:56.165 [main] INFO  Actions.ActionUtilities - In click action xpath is functioned 
+"11:43:56.165 [main] INFO  StepDefinitions.StepDefnition - sign-up button is clicked
+"11:43:57.525 [main] INFO  StepDefinitions.StepDefnition - sign-in session ended
+"11:43:57.539 [main] INFO  StepDefinitions.StepDefnition - Sign-in started
+"11:43:57.794 [main] INFO  Actions.ActionUtilities - In click action id is functioned 
+"11:43:57.794 [main] INFO  StepDefinitions.StepDefnition - sign-up link is clicked
+"11:43:58.541 [main] INFO  Actions.ActionUtilities - In click action id is functioned 
+"11:43:58.541 [main] INFO  StepDefinitions.StepDefnition - sign-up username is clicked
+"11:43:58.609 [main] INFO  Actions.ActionUtilities - In clear action id is functioned 
+"11:43:58.609 [main] INFO  StepDefinitions.StepDefnition - sign-up username is cleared
+"11:43:58.946 [main] INFO  Actions.ActionUtilities - In sendkeys action id is functioned 
+"11:43:58.946 [main] INFO  StepDefinitions.StepDefnition - sign-up username is entered
+"11:43:59.148 [main] INFO  Actions.ActionUtilities - In click action id is functioned 
+"11:43:59.148 [main] INFO  StepDefinitions.StepDefnition - sign-up password is clicked
+"11:43:59.196 [main] INFO  Actions.ActionUtilities - In clear action id is functioned 
+"11:43:59.196 [main] INFO  StepDefinitions.StepDefnition - sign-up password is cleared
+"11:43:59.441 [main] INFO  Actions.ActionUtilities - In sendkeys action id is functioned 
+"11:43:59.441 [main] INFO  StepDefinitions.StepDefnition - sign-up password is entered
+"11:43:59.989 [main] INFO  Actions.ActionUtilities - In click action xpath is functioned 
+"11:43:59.989 [main] INFO  StepDefinitions.StepDefnition - sign-up button is clicked
+"11:44:00.523 [main] INFO  StepDefinitions.StepDefnition - sign-in session ended
+"11:44:01.373 [main] INFO  StepDefinitions.StepDefnition - Log-in started
+"11:44:01.572 [main] INFO  Actions.ActionUtilities - In click action id is functioned 
+"11:44:01.572 [main] INFO  StepDefinitions.StepDefnition - log-in link is clicked
+"11:44:02.478 [main] INFO  Actions.ActionUtilities - In click action id is functioned 
+"11:44:02.479 [main] INFO  StepDefinitions.StepDefnition - log-in username is clicked
+"11:44:02.544 [main] INFO  Actions.ActionUtilities - In clear action id is functioned 
+"11:44:02.544 [main] INFO  StepDefinitions.StepDefnition - log-in username is cleared
+"11:44:02.771 [main] INFO  Actions.ActionUtilities - In sendkeys action id is functioned 
+"11:44:02.771 [main] INFO  StepDefinitions.StepDefnition - log-in username is entered
+"11:44:02.980 [main] INFO  Actions.ActionUtilities - In click action id is functioned 
+"11:44:02.980 [main] INFO  StepDefinitions.StepDefnition - log-in password is clicked
+"11:44:03.046 [main] INFO  Actions.ActionUtilities - In clear action id is functioned 
+"11:44:03.046 [main] INFO  StepDefinitions.StepDefnition - log-in password is cleared
+"11:44:03.946 [main] INFO  Actions.ActionUtilities - In sendkeys action id is functioned 
+"11:44:03.947 [main] INFO  StepDefinitions.StepDefnition - log-in password is entered
+"11:44:04.481 [main] INFO  Actions.ActionUtilities - In click action xpath is functioned 
+"11:44:04.481 [main] INFO  StepDefinitions.StepDefnition - log-in button is clicked
+"11:44:07.546 [main] ERROR Actions.ActionUtilities - In click action id is not functioned 
+"11:44:07.546 [main] INFO  Actions.ActionUtilities - In click action id is functioned 
+"11:44:07.546 [main] INFO  StepDefinitions.StepDefnition - log-out button is clicked
+"11:44:08.163 [main] INFO  StepDefinitions.StepDefnition - Log-in started
+"11:44:08.390 [main] INFO  Actions.ActionUtilities - In click action id is functioned 
+"11:44:08.391 [main] INFO  StepDefinitions.StepDefnition - log-in link is clicked
+"11:44:19.126 [main] ERROR Actions.ActionUtilities - In click action id is not functioned 
+"11:44:19.127 [main] INFO  Actions.ActionUtilities - In click action id is functioned 
+"11:44:19.127 [main] INFO  StepDefinitions.StepDefnition - log-in username is clicked
+"11:44:21.187 [main] ERROR Actions.ActionUtilities - In clear action id is not functioned 
+"11:44:21.187 [main] INFO  Actions.ActionUtilities - In clear action id is functioned 
+"11:44:21.187 [main] INFO  StepDefinitions.StepDefnition - log-in username is cleared
+"11:44:23.280 [main] ERROR Actions.ActionUtilities - In sendkeys action id is not functioned 
+"11:44:23.280 [main] INFO  Actions.ActionUtilities - In sendkeys action id is functioned 
+"11:44:23.280 [main] INFO  StepDefinitions.StepDefnition - log-in username is entered
+"11:44:33.336 [main] ERROR Actions.ActionUtilities - In click action id is not functioned 
+"11:44:33.336 [main] INFO  Actions.ActionUtilities - In click action id is functioned 
+"11:44:33.337 [main] INFO  StepDefinitions.StepDefnition - log-in password is clicked
+"11:44:35.390 [main] ERROR Actions.ActionUtilities - In clear action id is not functioned 
+"11:44:35.390 [main] INFO  Actions.ActionUtilities - In clear action id is functioned 
+"11:44:35.390 [main] INFO  StepDefinitions.StepDefnition - log-in password is cleared
+"11:44:37.466 [main] ERROR Actions.ActionUtilities - In sendkeys action id is not functioned 
+"11:44:37.467 [main] INFO  Actions.ActionUtilities - In sendkeys action id is functioned 
+"11:44:37.467 [main] INFO  StepDefinitions.StepDefnition - log-in password is entered
+"11:44:48.591 [main] ERROR Actions.ActionUtilities - In click action xpath is not functioned 
+"11:44:48.592 [main] INFO  Actions.ActionUtilities - In click action xpath is functioned 
+"11:44:48.592 [main] INFO  StepDefinitions.StepDefnition - log-in button is clicked
+"11:44:50.906 [main] INFO  Actions.ActionUtilities - In click action id is functioned 
+"11:44:50.906 [main] INFO  StepDefinitions.StepDefnition - log-out button is clicked
+"11:45:09.704 [main] INFO  StepDefinitions.StepDefnition - Sign-in started
+"11:45:09.916 [main] INFO  Actions.ActionUtilities - In click action id is functioned 
+"11:45:09.916 [main] INFO  StepDefinitions.StepDefnition - sign-up link is clicked
+"11:45:10.600 [main] INFO  Actions.ActionUtilities - In click action id is functioned 
+"11:45:10.601 [main] INFO  StepDefinitions.StepDefnition - sign-up username is clicked
+"11:45:10.666 [main] INFO  Actions.ActionUtilities - In clear action id is functioned 
+"11:45:10.666 [main] INFO  StepDefinitions.StepDefnition - sign-up username is cleared
+"11:45:10.946 [main] INFO  Actions.ActionUtilities - In sendkeys action id is functioned 
+"11:45:10.946 [main] INFO  StepDefinitions.StepDefnition - sign-up username is entered
+"11:45:11.137 [main] INFO  Actions.ActionUtilities - In click action id is functioned 
+"11:45:11.138 [main] INFO  StepDefinitions.StepDefnition - sign-up password is clicked
+"11:45:11.218 [main] INFO  Actions.ActionUtilities - In clear action id is functioned 
+"11:45:11.218 [main] INFO  StepDefinitions.StepDefnition - sign-up password is cleared
+"11:45:11.459 [main] INFO  Actions.ActionUtilities - In sendkeys action id is functioned 
+"11:45:11.459 [main] INFO  StepDefinitions.StepDefnition - sign-up password is entered
+"11:45:11.987 [main] INFO  Actions.ActionUtilities - In click action xpath is functioned 
+"11:45:11.987 [main] INFO  StepDefinitions.StepDefnition - sign-up button is clicked
+"11:45:13.024 [main] INFO  StepDefinitions.StepDefnition - sign-in session ended
+"11:45:13.040 [main] INFO  StepDefinitions.StepDefnition - Log-in started
+"11:45:13.259 [main] INFO  Actions.ActionUtilities - In click action id is functioned 
+"11:45:13.259 [main] INFO  StepDefinitions.StepDefnition - log-in link is clicked
+"11:45:13.944 [main] INFO  Actions.ActionUtilities - In click action id is functioned 
+"11:45:13.944 [main] INFO  StepDefinitions.StepDefnition - log-in username is clicked
+"11:45:14.013 [main] INFO  Actions.ActionUtilities - In clear action id is functioned 
+"11:45:14.013 [main] INFO  StepDefinitions.StepDefnition - log-in username is cleared
+"11:45:14.238 [main] INFO  Actions.ActionUtilities - In sendkeys action id is functioned 
+"11:45:14.238 [main] INFO  StepDefinitions.StepDefnition - log-in username is entered
+"11:45:14.427 [main] INFO  Actions.ActionUtilities - In click action id is functioned 
+"11:45:14.428 [main] INFO  StepDefinitions.StepDefnition - log-in password is clicked
+"11:45:14.497 [main] INFO  Actions.ActionUtilities - In clear action id is functioned 
+"11:45:14.497 [main] INFO  StepDefinitions.StepDefnition - log-in password is cleared
+"11:45:14.706 [main] INFO  Actions.ActionUtilities - In sendkeys action id is functioned 
+"11:45:14.707 [main] INFO  StepDefinitions.StepDefnition - log-in password is entered
+"11:45:15.380 [main] INFO  Actions.ActionUtilities - In click action xpath is functioned 
+"11:45:15.381 [main] INFO  StepDefinitions.StepDefnition - log-in button is clicked
+"11:45:19.495 [main] INFO  Actions.ActionUtilities - In click action xpath is functioned 
+"11:45:19.495 [main] INFO  StepDefinitions.StepDefnition - Product is selected
+"11:45:23.242 [main] INFO  Actions.ActionUtilities - In click action xpath is functioned 
+"11:45:23.243 [main] INFO  StepDefinitions.StepDefnition - Addcart button is clicked
+"11:45:24.282 [main] INFO  StepDefinitions.StepDefnition - alert accept
+"11:45:25.635 [main] INFO  Actions.ActionUtilities - In click action id is functioned 
+"11:45:25.635 [main] INFO  StepDefinitions.StepDefnition - Cart link is clicked
+"11:45:28.962 [main] INFO  Actions.ActionUtilities - In click action xpath is functioned 
+"11:45:28.962 [main] INFO  StepDefinitions.StepDefnition - PlaceOrder button is clicked
+"11:45:29.807 [main] INFO  Actions.ActionUtilities - In click action id is functioned 
+"11:45:29.807 [main] INFO  StepDefinitions.StepDefnition - PlaceOrder username is clicked
+"11:45:30.399 [main] INFO  Actions.ActionUtilities - In sendkeys action id is functioned 
+"11:45:30.399 [main] INFO  StepDefinitions.StepDefnition - PlaceOrder username is entered
+"11:45:30.592 [main] INFO  Actions.ActionUtilities - In click action id is functioned 
+"11:45:30.592 [main] INFO  StepDefinitions.StepDefnition - PlaceOrder country is clicked
+"11:45:30.806 [main] INFO  Actions.ActionUtilities - In sendkeys action id is functioned 
+"11:45:30.806 [main] INFO  StepDefinitions.StepDefnition - PlaceOrder country is entered
+"11:45:30.999 [main] INFO  Actions.ActionUtilities - In click action id is functioned 
+"11:45:31.000 [main] INFO  StepDefinitions.StepDefnition - PlaceOrder city is clicked
+"11:45:31.252 [main] INFO  Actions.ActionUtilities - In sendkeys action id is functioned 
+"11:45:31.252 [main] INFO  StepDefinitions.StepDefnition - PlaceOrder city is entered
+"11:45:31.367 [main] ERROR Actions.ActionUtilities -   click action is not functioned 
+"11:45:31.368 [main] INFO  Actions.ActionUtilities -   click action is functioned 
+"11:45:31.369 [main] INFO  StepDefinitions.StepDefnition - PlaceOrder creditcard is clicked
+"11:45:31.741 [main] INFO  Actions.ActionUtilities - In sendkeys action id is functioned 
+"11:45:31.741 [main] INFO  StepDefinitions.StepDefnition - PlaceOrder creditcard is entered
+"11:45:31.969 [main] INFO  Actions.ActionUtilities - In click action id is functioned 
+"11:45:31.969 [main] INFO  StepDefinitions.StepDefnition - PlaceOrder month is clicked
+"11:45:32.241 [main] INFO  Actions.ActionUtilities - In sendkeys action id is functioned 
+"11:45:32.241 [main] INFO  StepDefinitions.StepDefnition - PlaceOrder month is entered
+"11:45:32.431 [main] INFO  Actions.ActionUtilities - In click action id is functioned 
+"11:45:32.432 [main] INFO  StepDefinitions.StepDefnition - PlaceOrder year is clicked
+"11:45:32.649 [main] INFO  Actions.ActionUtilities - In sendkeys action id is functioned 
+"11:45:32.649 [main] INFO  StepDefinitions.StepDefnition - PlaceOrder year is entered
+"11:45:33.167 [main] INFO  Actions.ActionUtilities - In click action xpath is functioned 
+"11:45:33.167 [main] INFO  StepDefinitions.StepDefnition - Purchase button is clicked
+"11:45:36.649 [main] INFO  StepDefinitions.StepDefnition - Product has been scheduled for shipping
+"11:45:38.389 [main] INFO  Actions.ActionUtilities - In click action xpath is functioned 
 "
