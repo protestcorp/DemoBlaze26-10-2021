@@ -19,7 +19,7 @@ public class PageObjectHandler {
         try
         {
 <<<<<<< HEAD:src/main/java/CucumberOptionsss/PageObjectHandler.java
-         File file = new File("/Demo-cucumber-starter/src/main/java/TestData/PageObject.xml"); 
+         File file = new File("C:\Users\CHETAN S\Downloads\Updated-Demoblaze\Updtd-cucumber-starter\src\main\java\TestData\PageObject.xml"); 
 =======
          File file = new File("/Demo-cucumber-starter/src/main/java/TestData/PageObject.xml"); 
 >>>>>>> febe54675e92adf3a4a1de59b3cd7d751f2a9df2:src/test/java/CucumberOptionsss/PageObjectHandler.java
@@ -64,7 +64,7 @@ public class PageObjectHandler {
         try
         {
 <<<<<<< HEAD:src/main/java/CucumberOptionsss/PageObjectHandler.java
-         File file = new File("/Demo-cucumber-starter/src/main/java/TestData/PageObject.xml"); 
+         File file = new File("C:\Users\CHETAN S\Downloads\Updated-Demoblaze\Updtd-cucumber-starter\src\main\java\TestData\PageObject.xml"); 
 =======
          File file = new File("/Demo-cucumber-starter/src/main/java/TestData/PageObject.xml"); 
 >>>>>>> febe54675e92adf3a4a1de59b3cd7d751f2a9df2:src/test/java/CucumberOptionsss/PageObjectHandler.java
