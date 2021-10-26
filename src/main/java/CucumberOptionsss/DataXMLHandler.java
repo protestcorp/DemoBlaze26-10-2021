@@ -14,7 +14,7 @@ int length = 0;
 try
 {
 <<<<<<< HEAD:src/main/java/CucumberOptionsss/DataXMLHandler.java
-File file = new File("C:\\Users\\CHETAN S\\Downloads\\Updated-Demoblaze\\Updtd-cucumber-starter\\src\\main\\java\\TestData\\DATA.xml");
+File file = new File("/Demo-cucumber-starter/src/main/java/TestData/DATA.xml");
 =======
 File file = new File("/Demo-cucumber-starter/src/main/java/TestData/DATA.xml");
 >>>>>>> febe54675e92adf3a4a1de59b3cd7d751f2a9df2:src/test/java/CucumberOptionsss/DataXMLHandler.java
@@ -48,7 +48,7 @@ String data = "";
 try
 {
 <<<<<<< HEAD:src/main/java/CucumberOptionsss/DataXMLHandler.java
-File file = new File("C:\\Users\\CHETAN S\\Downloads\\Updated-Demoblaze\\Updtd-cucumber-starter\\src\\main\\java\\TestData\\DATA.xml");
+File file = new File("/Demo-cucumber-starter/src/main/java/TestData/DATA.xml");
 =======
 File file = new File("/Demo-cucumber-starter/src/main/java/TestData/DATA.xml");
 >>>>>>> febe54675e92adf3a4a1de59b3cd7d751f2a9df2:src/test/java/CucumberOptionsss/DataXMLHandler.java
