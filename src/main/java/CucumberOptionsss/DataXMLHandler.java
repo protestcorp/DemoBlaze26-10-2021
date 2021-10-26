@@ -13,7 +13,11 @@ public int getNumberOfTags(String testCaseName, String tagName)
 int length = 0;
 try
 {
+<<<<<<< HEAD:src/main/java/CucumberOptionsss/DataXMLHandler.java
 File file = new File("C:\\Users\\CHETAN S\\Downloads\\Updated-Demoblaze\\Updtd-cucumber-starter\\src\\main\\java\\TestData\\DATA.xml");
+=======
+File file = new File("/Demo-cucumber-starter/src/main/java/TestData/DATA.xml");
+>>>>>>> febe54675e92adf3a4a1de59b3cd7d751f2a9df2:src/test/java/CucumberOptionsss/DataXMLHandler.java
 DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
 DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
 Document doc = dBuilder.parse(file);
@@ -43,7 +47,11 @@ String data = "";
 
 try
 {
+<<<<<<< HEAD:src/main/java/CucumberOptionsss/DataXMLHandler.java
 File file = new File("C:\\Users\\CHETAN S\\Downloads\\Updated-Demoblaze\\Updtd-cucumber-starter\\src\\main\\java\\TestData\\DATA.xml");
+=======
+File file = new File("/Demo-cucumber-starter/src/main/java/TestData/DATA.xml");
+>>>>>>> febe54675e92adf3a4a1de59b3cd7d751f2a9df2:src/test/java/CucumberOptionsss/DataXMLHandler.java
 DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
 DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
 Document doc = dBuilder.parse(file);
